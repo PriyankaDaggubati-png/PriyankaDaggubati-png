@@ -2,6 +2,8 @@
 
 # Network Engineer | Network Security | Cybersecurity | Linux | AWS Cloud Networking
 
+## Technical stack
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-026B9A?style=for-the-badge&logo=gns3&logoColor=white)
@@ -103,7 +105,7 @@ These topics are lab templates I am working through. They are not production exp
 - Python automation with Netmiko and Ansible
 - Linux hardening and log analysis
 
-## Featured Repositories
+## Featured projects
 
 | Repository | What it covers | Status |
 | --- | --- | --- |
@@ -121,8 +123,6 @@ These topics are lab templates I am working through. They are not production exp
 | [network-troubleshooting-playbook](https://github.com/PriyankaDaggubati-png/network-troubleshooting-playbook) | Eight L1 and L2 runbooks with triage and escalation | Lab experience |
 
 ## GitHub Stats
-
-Replace PriyankaDaggubati-png with your real GitHub username in the links below, and the cards will fill in with your real numbers.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankaDaggubati-png&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaDaggubati-png&layout=compact&theme=dark&hide_border=true)
